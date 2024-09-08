@@ -39,7 +39,7 @@ Bʏ @JISSHU_BOTS"""
 Iᴅ - <code>{}</code>
 Nᴀᴍᴇ - {}
 
-Bʏ @JISSHU_BOTS"""
+Bʏ @Sayandip_Mahata"""
 
     ALRT_TXT = """ʜᴇʟʟᴏ {},
 ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ʏᴏᴜʀ ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ,
@@ -229,7 +229,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 
   
     SOURCE_TXT = """<b>
- :<blockquote><a href="http://t.me/Sayandip_Mahata">𝗝𝗶𝘀𝘀𝗵𝘂-𝗙𝗶𝗹𝘁𝗲𝗿-𝗕𝗼𝘁</a></blockquote>
+ :<blockquote><a href="http://t.me/Sayandip_Mahata">Owner</a></blockquote>
 
 developer : Mr.Sayandip
 </b>""" 
