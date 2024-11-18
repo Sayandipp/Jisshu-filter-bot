@@ -18,14 +18,14 @@ API_HASH = environ.get('API_HASH', '53b04d58c085c3136ceda8036ee9a1da')
 BOT_TOKEN = environ.get('BOT_TOKEN', '')
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6191794928 7364818327').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '7364818327 6191794928').split()]
 USERNAME = environ.get('USERNAME', "https://t.me/Sayandip_Mahata") # ADMIN USERNAME
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002152214136'))
-MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', '')
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '').split()]
+MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/Movie_Request_Area')
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002152214136').split()]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://ayush906898:ayush906898@cluster0.lxzl4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb-srv://ayush906898/ayush906898@cluster0.1xz14.mongods.net/Tretrywrites-true-majority&applane-ClusterD")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 #---------------------------------------------------------------
@@ -69,7 +69,7 @@ REQUEST_CHANNEL = int(request_channel) if request_channel and id_pattern.search(
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-START_IMG = (environ.get('START_IMG', 'https://envs.sh/L-F.jpg https://envs.sh/L-u.jpg https://envs.sh/L-2.jpg')).split()
+START_IMG = (environ.get('START_IMG', 'https://envs.sh/L-u.jpg https://envs.sh/L-F.jpg https://envs.sh/L-2.jpg')).split()
 FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://i.ibb.co/ZNC1Hnb/ad3f2c88a8f2.jpg')
 REFER_PICS = (environ.get("REFER_PICS", "https://envs.sh/PSI.jpg")).split() 
 PAYPICS = (environ.get('PAYPICS', 'https://envs.sh/L-5.jpg')).split()
@@ -107,7 +107,7 @@ if 'DYNO' in environ:
     ON_HEROKU = True
 else:
     ON_HEROKU = False
-URL = environ.get("FQDN", "simple-mavra-sayandip-b515e020.koyeb.app/")
+URL = environ.get("FQDN", "western-bunni-gojo5533-f2e464b1.koyeb.app/")
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
