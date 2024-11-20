@@ -351,9 +351,9 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 
     SOURCE_TXT = """<b>
 NOTE:
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<blockquote><a href="https://t.me/avengerdoomsday1">𝟳𝘅-𝗙𝗶𝗹𝘁𝗲𝗿-𝗕𝗼𝘁</a></blockquote>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<blockquote><a href="https://t.me/Sayandip_Mahata">🅢︎🅐︎🅨︎🅐︎🅝︎🅓︎🅘︎🅟︎؛ًٍَُّْ𝅯𝅯۪ؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒ</a></blockquote>
 
-developer : ༎꯭ࠫ𝗣𝗮𝘁𝗿𝗶𝗰𝗸᭄𝗕𝗮𝘁𝗲𝗺𝗮𝗻༎꯭ࠫ 
+developer :🅢︎🅐︎🅨︎🅐︎🅝︎🅓︎🅘︎🅟︎؛ًٍَُّْ𝅯𝅯۪ؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒؒ 
 </b>""" 
     GROUP_C_TEXT = """<b><blockquote>
  --------------Set Verify-------------
